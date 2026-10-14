@@ -1,138 +1,130 @@
+ <!-- Profile README for parveenbhanu2005 -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=PARVEEN+BHANU;PYTHON+DEVELOPER;CYBERSECURITY+STUDENT;AI+%26+COMPUTER+VISION" alt="Animated futuristic developer title" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F172A,50:172554,100:164E63&text=PARVEEN%20BHANU&fontSize=48&fontColor=67E8F9&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20CYBERSECURITY&descSize=16&descAlignY=65&descColor=E2E8F0" width="100%" alt="Parveen Bhanu profile banner"/>
 
-<h3>⚡ BUILD • SECURE • INNOVATE ⚡</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=B.Tech+Cybersecurity+Student;Python+%7C+Java+%7C+Web+Development;Building+Practical+Software+Projects;Always+Learning.+Always+Building." alt="Animated introduction"/>
+</a>
 
-<img src="https://img.shields.io/badge/PROFILE-3D%20TECH%20MODE-00F7FF?style=for-the-badge&labelColor=101020" alt="3D Tech Mode" />
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-9D4EDD?style=for-the-badge&labelColor=101020" alt="Software Development" />
+<br/>
+
+<a href="https://www.linkedin.com/in/parveen-bhanu-bandisula/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://parveenbhanu-portflio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/parveenbhanu2005"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/ParveenBhanu/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 </div>
 
 ---
 
-## ◈ `01` — SYSTEM PROFILE
+## `$ whoami` — About Me
 
-<table>
-<tr>
-<td width="60%">
+Hello! I'm **Parveen Bhanu**, a B.Tech student specializing in **Computer Science Engineering (Cyber Security)** at Rajeev Gandhi Memorial College of Engineering & Technology.
 
-### 👨‍💻 About Me
+I'm interested in software development, cybersecurity, Python programming, and building practical applications that solve real-world problems.
 
-- 🎓 B.Tech CSE — Cyber Security, RGMCET
-- 🐍 Interested in Python development
-- 🛡️ Learning cybersecurity and networking
-- 🤖 Exploring AI and computer vision
-- 💻 Building practical software projects
-- 🚀 Focused on continuous technical growth
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,linux,github,vscode,flask,opencv&perline=3" alt="Technology icons" />
-
-**DEVELOPER MODE: ACTIVE**
-
-</td>
-</tr>
-</table>
+- 🎓 **Education:** B.Tech CSE — Cyber Security, expected 2027
+- 💻 **Programming:** Python and Java
+- 🛠️ **Development:** Flask, HTML, SQL
+- 🔐 **Interests:** Cybersecurity, computer networks, and application development
+- 🌱 **Currently improving:** Problem-solving, software development, and technical fundamentals
+- 🎯 **Career goal:** To contribute to a software engineering or cybersecurity team and continue learning through real-world projects
 
 ---
 
-## ◈ `02` — TECHNOLOGY MATRIX
+## `$ tech-stack` — Technical Skills
 
-### 💻 Core Programming
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=101020" alt="Python" />
-<img src="https://img.shields.io/badge/Java-9D4EDD?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
+### Programming Languages
 
-### 🌐 Web & Database
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python and Java"/>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+### Web Development & Databases
 
-### 🧠 AI, Vision & Developer Tools
+<img src="https://skillicons.dev/icons?i=html,flask,mysql&theme=dark" alt="HTML, Flask, and MySQL"/>
 
-<p>
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" alt="YOLOv8" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, and Linux"/>
+
+### Computer Vision
+
+<img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-7C3AED?style=for-the-badge" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-16A34A?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+
+</div>
 
 ---
 
-## ◈ `03` — PROJECT LAB
+## `$ ls projects/` — Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚨 Emergency Vehicle AI</h3>
+### 🚑 Emergency Vehicle Priority Detection
 
-<p align="center">
-<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-00F7FF?style=flat-square" alt="YOLOv8 Computer Vision" />
-</p>
+**AI-powered traffic video analysis**
 
-A computer vision project for detecting objects in traffic videos.
+A computer vision project designed to detect emergency vehicles in traffic videos using YOLOv8.
 
-**Stack**
+**Technologies**
 - Python
 - YOLOv8
 - OpenCV
 - Flask
 
-<p align="center">
-<a href="https://github.com/parveenbhanu2005/EmergencyVehiclePriorityDetection">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Emergency Vehicle project" />
-</a>
-</p>
+<a href="https://github.com/parveenbhanu2005/EmergencyVehiclePriorityDetection"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Emergency Vehicle project"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 AI Interview Agent</h3>
+### 🤖 AI Interview Agent
 
-<p align="center">
-<img src="https://img.shields.io/badge/Groq-LLM%20Integration-9D4EDD?style=flat-square" alt="Groq LLM Integration" />
-</p>
+**AI-assisted interview practice**
 
-An interview practice application that generates questions and evaluates answers using an AI model API.
+A web application designed to generate interview questions and evaluate submitted answers using an AI API.
 
-**Stack**
+**Technologies**
 - Python
 - Flask
 - Groq API
+- HTML
 
-<p align="center">
-<a href="https://github.com/parveenbhanu2005/AI-Interview-Agent">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECT-9D4EDD?style=for-the-badge&logo=github" alt="Explore AI Interview Agent" />
-</a>
-</p>
+<a href="https://github.com/parveenbhanu2005/AI-Interview-Agent"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View AI Interview Agent project"/></a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
-<h3>🌧️ Waterlogging Detection AI</h3>
+### 🌧️ Waterlogging Detection AI
 
-Computer vision project focused on waterlogging detection and multi-object tracking.
+**Computer vision for waterlogging detection**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" alt="YOLOv8" />
+An AI-based project exploring the detection of waterlogging from visual input.
 
-<br />
+**Technologies**
+- Python
+- YOLO
+- OpenCV
+- Flask
 
-<a href="https://github.com/parveenbhanu2005/Waterlogging-Detection-AI">
-<img src="https://img.shields.io/badge/VIEW-REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View Waterlogging Detection project" />
-</a>
+<a href="https://github.com/parveenbhanu2005/Waterlogging-Detection-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View Waterlogging project"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 What I'm Working Toward
+
+- Strengthening data structures and algorithms
+- Improving Python and Java programming
+- Building maintainable web applications
+- Practicing cybersecurity fundamentals
+- Writing clearer documentation and project READMEs
 
 </td>
 </tr>
@@ -140,51 +132,52 @@ Computer vision project focused on waterlogging detection and multi-object track
 
 ---
 
-## ◈ `04` — GITHUB COMMAND CENTER
+## `$ education` — Academic Background
+
+| Qualification | Institution | Result |
+|---|---|---|
+| B.Tech — CSE (Cyber Security) | Rajeev Gandhi Memorial College of Engineering & Technology | Pursuing · Expected 2027 |
+| Diploma | SVR Engineering College | 76% · 2024 |
+| SSC | ZP High School (Boys) | 89.33% · 2021 |
+
+---
+
+## `$ github-stats` — Coding Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parveenbhanu2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=9D4EDD" alt="GitHub statistics" />
+<a href="https://github.com/parveenbhanu2005">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parveenbhanu2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenbhanu2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Most used languages" />
+<a href="https://github.com/parveenbhanu2005">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenbhanu2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=E2E8F0" alt="Most used languages"/>
+</a>
 
-<br />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=parveenbhanu2005&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=9D4EDD&currStreakLabel=00F7FF" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=parveenbhanu2005&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## ◈ `05` — EDUCATION RECORD
+## `$ connect` — Let's Connect
 
-| Qualification | Institution | Result |
-|---|---|---|
-| B.Tech — CSE (Cyber Security) | RGMCET | Expected May 2027 |
-| Diploma in Engineering | SVR Engineering College | 76% |
-| SSC | ZP High School (Boys) | 89.33% |
-
----
-
-## ◈ `06` — CONNECT TO MY NETWORK
+I'm interested in learning from developers, collaborating on meaningful projects, and exploring opportunities to grow as a software developer.
 
 <div align="center">
 
-<a href="https://github.com/parveenbhanu2005">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/in/parveen-bhanu-bandisula/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
-<a href="https://leetcode.com/u/ParveenBhanu/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
-</a>
-<a href="https://parveenbhanu-portflio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
-</a>
+<a href="https://www.linkedin.com/in/parveen-bhanu-bandisula/"><img src="https://img.shields.io/badge/LinkedIn-Parveen%20Bhanu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
 
-<h3>⚡ BUILD • LEARN • EVOLVE ⚡</h3>
+<a href="https://parveenbhanu-portflio.netlify.app/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-Visit%20Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"/></a>
 
-<sub>Engineering solutions. Exploring possibilities. Improving every day.</sub>
+<a href="https://github.com/parveenbhanu2005"><img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/></a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
