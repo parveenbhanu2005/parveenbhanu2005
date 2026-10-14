@@ -1,9 +1,9 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0B1020,50:172554,100:164E63&text=BANDISULA%20PARVEEN%20BHANU&fontSize=34&fontColor=67E8F9&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPMENT%20%7C%20CYBERSECURITY&descSize=15&descAlignY=65&descColor=E2E8F0" width="100%" alt="BANDISULA PARVEEN BHANU profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B1020,50:172554,100:164E63&text=BANDISULA%20PARVEEN%20BHANU&fontSize=34&fontColor=67E8F9&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPMENT%20%7C%20CYBERSECURITY&descSize=15&descAlignY=65&descColor=FFFFFF" width="100%" alt="BANDISULA PARVEEN BHANU"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%7C+Cyber+Security;Python+%7C+Java+%7C+Web+Development;Building+Practical+Software+Projects;Learning%2C+Building%2C+Improving." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%7C+Cyber+Security;Python+%7C+Java+%7C+Web+Development;Building+Practical+Software+Projects;Learning+%7C+Building+%7C+Improving" alt="Animated introduction"/>
 </a>
 
 <br/>
@@ -19,17 +19,17 @@
 
 ## 👋 About Me
 
-Hi! I'm **BANDISULA PARVEEN BHANU**, a B.Tech student specializing in Computer Science Engineering (Cyber Security) at Rajeev Gandhi Memorial College of Engineering & Technology.
+Hello! I'm **BANDISULA PARVEEN BHANU**, a B.Tech student specializing in Computer Science Engineering (Cyber Security) at Rajeev Gandhi Memorial College of Engineering & Technology.
 
-I'm interested in software development, cybersecurity, Python programming, and AI-powered applications. I enjoy learning new technologies and developing projects to strengthen my practical skills.
+I'm passionate about learning software development, exploring cybersecurity, and building practical applications using programming and AI technologies.
 
-- 🎓 **Degree:** B.Tech — CSE (Cyber Security)
+- 🎓 **Degree:** B.Tech — Computer Science Engineering (Cyber Security)
 - 📅 **Expected graduation:** 2027
-- 💻 **Programming:** Python, Java
-- 🌐 **Development:** HTML, Flask
+- 💻 **Programming languages:** Python, Java
+- 🌐 **Web development:** HTML, Flask
 - 🗄️ **Database:** SQL
-- 🔐 **Interests:** Cybersecurity, computer networks, and software development
-- 🚀 **Goal:** Grow as a software developer and contribute to useful real-world applications
+- 🔐 **Areas of interest:** Cybersecurity, computer networks, software development
+- 🎯 **Career objective:** Develop reliable software solutions and grow as a technology professional
 
 ---
 
@@ -37,75 +37,80 @@ I'm interested in software development, cybersecurity, Python programming, and A
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,flask,mysql,git,github,vscode,linux&theme=dark&perline=5" alt="Technical skills"/>
+### Programming Languages
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python and Java"/>
 
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-16A34A?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+### Web Development and Database
+
+<img src="https://skillicons.dev/icons?i=html,flask,mysql&theme=dark" alt="HTML, Flask and MySQL"/>
+
+### Tools and Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code and Linux"/>
+
+### Computer Vision
+
 <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-7C3AED?style=for-the-badge" alt="YOLOv8"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-0891B2?style=for-the-badge" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-16A34A?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 
 </div>
 
 ---
 
-## 🚀 My Projects
-
-Here are the projects I've worked on across software development, AI, computer vision, and cybersecurity.
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚑 1. Emergency Vehicle Priority Detection
+### 🚑 Emergency Vehicle Priority Detection
 
 An AI-based application designed to detect emergency vehicles in traffic videos.
 
 **Technologies:** Python, YOLOv8, OpenCV, Flask
 
-<a href="https://github.com/parveenbhanu2005/EmergencyVehiclePriorityDetection"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Emergency Vehicle repository"/></a>
+<a href="https://github.com/parveenbhanu2005/EmergencyVehiclePriorityDetection"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Emergency Vehicle project"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 2. AI Interview Agent
+### 🤖 AI Interview Agent
 
-A web application for interview practice that generates questions and evaluates submitted answers using an AI API.
+An interview-practice web application that generates questions and evaluates submitted answers using an AI API.
 
 **Technologies:** Python, Flask, Groq API
 
-<a href="https://github.com/parveenbhanu2005/AI-Interview-Agent"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="AI Interview Agent repository"/></a>
+<a href="https://github.com/parveenbhanu2005/AI-Interview-Agent"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View AI Interview Agent project"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌧️ 3. Waterlogging Detection AI
+### 🌧️ Waterlogging Detection AI
 
-A computer-vision project exploring the detection of waterlogging using visual input.
+A computer-vision project exploring the detection of waterlogging from visual input.
 
 **Technologies:** Python, YOLO, OpenCV, Flask
 
-<a href="https://github.com/parveenbhanu2005/Waterlogging-Detection-AI"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Waterlogging Detection repository"/></a>
+<a href="https://github.com/parveenbhanu2005/Waterlogging-Detection-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View Waterlogging project"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 4. AI Resume Screening Agent
+### 📄 AI Resume Screening Agent
 
 An AI-related project focused on resume screening and candidate information analysis.
 
-**Technologies:** AI application development
-
-<a href="https://github.com/parveenbhanu2005/AI-Resume-Screening-Agentt"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="AI Resume Screening repository"/></a>
+<a href="https://github.com/parveenbhanu2005/AI-Resume-Screening-Agentt"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View AI Resume Screening project"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 5. Staff Management System
+### 🏢 Staff Management System
 
 A software project focused on organizing staff information and supporting staff-management tasks.
 
@@ -114,7 +119,7 @@ A software project focused on organizing staff information and supporting staff-
 </td>
 <td width="50%" valign="top">
 
-### 🔍 6. Smart Document Tampering Detection
+### 🔍 Document Tampering Detection
 
 A project exploring document-image analysis to identify possible signs of tampering.
 
@@ -125,7 +130,7 @@ A project exploring document-image analysis to identify possible signs of tamper
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ 7. Network Intrusion Detection System
+### 🛡️ Network Intrusion Detection System
 
 An academic project exploring network intrusion detection and handling missing data in a dataset.
 
@@ -134,7 +139,7 @@ An academic project exploring network intrusion detection and handling missing d
 </td>
 <td width="50%" valign="top">
 
-### 🌉 8. SkillBridge AI — Career Roadmap Platform
+### 🌉 SkillBridge AI — Career Roadmap Platform
 
 A career-guidance platform concept designed to analyze skills and help generate personalized learning roadmaps.
 
@@ -145,18 +150,18 @@ A career-guidance platform concept designed to analyze skills and help generate 
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 9. Wildlife Intrusion / Poaching Detection
+### 🐾 Wildlife Intrusion / Poaching Detection
 
-A project concept focused on applying technology to wildlife monitoring and potential intrusion detection.
+A project concept focused on technology-assisted wildlife monitoring and potential intrusion detection.
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 More Projects
+### 📂 Explore All My Repositories
 
-Explore my GitHub repositories for additional code, experiments, and ongoing learning projects.
+Discover additional projects, experiments, and programming work on my GitHub account.
 
-<a href="https://github.com/parveenbhanu2005?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
+<a href="https://github.com/parveenbhanu2005?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
 
 </td>
 </tr>
@@ -179,16 +184,20 @@ Explore my GitHub repositories for additional code, experiments, and ongoing lea
 <div align="center">
 
 <a href="https://github.com/parveenbhanu2005">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parveenbhanu2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=parveenbhanu2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=FFFFFF&ring_color=67E8F9&include_all_commits=true" alt="GitHub statistics with high-contrast numbers"/>
 </a>
 
 <a href="https://github.com/parveenbhanu2005">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenbhanu2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=E2E8F0" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenbhanu2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=FFFFFF&langs_count=8" alt="Most used programming languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=parveenbhanu2005&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub streak statistics"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=parveenbhanu2005&theme=dark&hide_border=true&background=0D1117&ring=67E8F9&fire=FFD166&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=C0C8D4&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak with bright numbers"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=parveenbhanu2005&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub profile trophies"/>
 
 </div>
 
@@ -196,7 +205,7 @@ Explore my GitHub repositories for additional code, experiments, and ongoing lea
 
 ## 🤝 Let's Connect
 
-I'm open to learning opportunities, technical discussions, and collaboration on meaningful software projects.
+I'm interested in connecting with developers, learning from the community, and collaborating on meaningful software projects.
 
 <div align="center">
 
@@ -206,10 +215,12 @@ I'm open to learning opportunities, technical discussions, and collaboration on 
 
 <a href="https://github.com/parveenbhanu2005"><img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
+<a href="https://leetcode.com/u/ParveenBhanu/"><img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+
 <br/><br/>
 
 **Thanks for visiting my GitHub profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:0B1020&height=100&section=footer" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:0B1020&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
