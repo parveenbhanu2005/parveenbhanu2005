@@ -17,7 +17,8 @@
 ---
 
 ### 💼 Professional Summary
-Motivated **B.Tech Computer Science Engineering (Cyber Security)** student with a strong foundation in software engineering, Python programming, and applied AI systems. Passionate about building secure, intelligent web applications and computer vision solutions that solve real-world problems.
+
+Motivated B.Tech Computer Science Engineering (Cyber Security) student with a strong foundation in software engineering, Python programming, and applied AI systems. Passionate about building secure, intelligent web applications and computer vision solutions that solve real-world problems.
 
 ---
 
@@ -61,7 +62,7 @@ Motivated **B.Tech Computer Science Engineering (Cyber Security)** student with 
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & 3D Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parveenbhanu2005&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -70,4 +71,8 @@ Motivated **B.Tech Computer Science Engineering (Cyber Security)** student with 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveenbhanu2005&theme=radical&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=parveenbhanu2005&theme=vision_friendly_dark" alt="3D Profile Summary Card" />
 </p>
