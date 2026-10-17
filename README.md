@@ -1,15 +1,23 @@
-<h1 align="center">Hi, I'm Bandisula Parveen Bhanu 👋</h1>
-<h3 align="center">B.Tech Cyber Security Student & Software Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,28,35&height=160&section=header&text=Bandisula%20Parveen%20Bhanu&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Cyber%20Security%20%7C%20Software%20Developer&descSize=15&descAlignY=62" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%7C_AI_Applications_%7C_Python-blue?style=for-the-badge" alt="Focus" />
+  <a href="https://www.linkedin.com/in/parveen-bhanu-bandisula/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://parveenbhanu-portflio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="mailto:parveenbhanu1313@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 💼 Professional Summary
-Motivated and detail-oriented **B.Tech Computer Science Engineering (Cyber Security)** student with a strong foundation in software engineering, Python programming, and applied AI systems. Passionate about building secure, intelligent web applications and computer vision solutions that solve real-world problems. 
+Motivated **B.Tech Computer Science Engineering (Cyber Security)** student with a strong foundation in software engineering, Python programming, and applied AI systems. Passionate about building secure, intelligent web applications and computer vision solutions that solve real-world problems.
 
 ---
 
@@ -18,34 +26,28 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering (Cyber Secur
 * **Languages:** Python, Java, SQL
 * **Web & Frameworks:** Flask, Streamlit, HTML/CSS
 * **AI & Computer Vision:** YOLOv8, OpenCV, Groq API, OCR, NLP / Speech Processing
-* **Core Domains:** Cybersecurity, Computer Networks, Software Development Life Cycle (SDLC)
-* **Tools & Platforms:** Git, GitHub, VS Code
+* **Core Domains:** Cybersecurity, Computer Networks, Software Development
+* **Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
 ---
 
 ### 🚀 Featured Projects
 
-> *Explore my top applications solving complex computer vision and AI automation problems.*
-
 * 🚑 **[Emergency Vehicle Priority Detection](https://github.com/parveenbhanu2005/EmergencyVehiclePriorityDetection)**
-  * **What it does:** An intelligent traffic-management computer vision tool that detects emergency vehicles in live video streams to prioritize clearance.
-  * **Tech Stack:** Python, YOLOv8, OpenCV, Flask
-
+  * *Description:* An AI-based traffic management application designed to detect emergency vehicles in live video streams.
+  * *Tech:* Python, YOLOv8, OpenCV, Flask
 * 🤖 **[AI Interview Agent](https://github.com/parveenbhanu2005)**
-  * **What it does:** A web-based interview preparation platform that dynamically generates role-specific technical questions and evaluates user answers using LLM APIs.
-  * **Tech Stack:** Python, Flask, Groq API
-
+  * *Description:* An interview-practice web application that generates role-based questions and evaluates responses using an AI API.
+  * *Tech:* Python, Flask, Groq API
 * 📄 **[AI Resume Screening Agent](https://github.com/parveenbhanu2005)**
-  * **What it does:** An automated recruitment utility that analyzes candidate resumes against target job descriptions, computing a deep compatibility matching score.
-  * **Tech Stack:** Python, Streamlit
-
+  * *Description:* Analyzes resumes against target job descriptions and calculates a deep matching score.
+  * *Tech:* Python, Streamlit
 * 🔍 **[Smart Document Tampering Detection](https://github.com/parveenbhanu2005)**
-  * **What it does:** A digital forensics document-verification tool leveraging OCR and visual analysis to flag alterations or fraudulent document modifications.
-  * **Tech Stack:** Python, Flask, OpenCV, OCR
-
+  * *Description:* A document-forensics application that analyzes documents for possible tampering using OCR and image analysis.
+  * *Tech:* Python, Flask, OpenCV, OCR
 * 🌧️ **[Waterlogging Detection AI](https://github.com/parveenbhanu2005/Waterlogging-Detection-AI)**
-  * **What it does:** A computer vision system tracking environmental water levels from visual media to automate early disaster reporting.
-  * **Tech Stack:** Python, YOLOv8, OpenCV, Flask
+  * *Description:* Computer vision system tracking environmental water levels from visual media to automate early disaster reporting.
+  * *Tech:* Python, YOLOv8, OpenCV, Flask
 
 ---
 
@@ -66,10 +68,6 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering (Cyber Secur
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenbhanu2005&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
----
-
-### 🤝 Let's Connect
-
-* **LinkedIn:** [Your LinkedIn URL]
-* **Portfolio Website:** [Your Netlify Portfolio URL]
-* **Email:** [Your Email Address]
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveenbhanu2005&theme=radical&hide_border=true" width="100%" />
+</p>
