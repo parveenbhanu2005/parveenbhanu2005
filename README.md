@@ -1,9 +1,9 @@
 # BANDISULA PARVEEN BHANU
 
-### Computer Science Engineering Student | Cybersecurity | Python Developer | Full-Stack Development
+### Computer Science Engineering Student | Cybersecurity | Python Development | Full-Stack Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=67E8F9&center=true&vCenter=true&width=750&lines=Python+Development;Cybersecurity+%26+Secure+Applications;Full-Stack+Web+Development;Building+Projects+That+Solve+Problems" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=67E8F9&center=true&vCenter=true&width=750&lines=Python+Development;Cybersecurity+%26+Secure+Applications;Full-Stack+Web+Development;Building+Projects+That+Solve+Problems" alt="Professional introduction" />
 </p>
 
 <p align="center">
@@ -25,17 +25,16 @@
 
 ## About Me
 
-Hello! I am **BANDISULA PARVEEN BHANU**, a Computer Science Engineering student specializing in Cyber Security, with a strong interest in Python development, web technologies, and practical security solutions.
+I am a Computer Science Engineering student specializing in **Cyber Security**, interested in Python development, web technologies, and practical cybersecurity solutions.
 
-I enjoy developing applications that combine programming, automation, computer vision, and AI-powered functionality. I am focused on improving my technical skills through hands-on projects, problem-solving, and continuous learning.
+I enjoy building applications that combine programming, automation, computer vision, and AI-powered features. I am continuously improving my technical skills through hands-on projects and problem-solving.
 
 - 🎓 Pursuing B.Tech in CSE — Cyber Security
 - 📅 Expected graduation: 2027
-- 💻 Interested in Python development and full-stack web applications
-- 🔐 Exploring cybersecurity, networking, and secure software development
-- 🤖 Building projects involving AI integration and computer vision
-- 📈 Continuously improving my programming and problem-solving skills
-- 🤝 Open to learning, collaboration, and suitable entry-level opportunities
+- 💻 Interested in Python and full-stack development
+- 🔐 Exploring cybersecurity, networking, and secure application development
+- 🤖 Developing projects involving AI integration and computer vision
+- 🤝 Interested in collaboration and entry-level technology opportunities
 
 ## Technical Skills
 
@@ -79,50 +78,95 @@ I enjoy developing applications that combine programming, automation, computer v
 ## Featured Projects
 
 ### 1. Emergency Vehicle Priority Detection
-**Tech stack:** Python, YOLO, OpenCV, Flask
 
-A computer vision application that processes uploaded videos and generates annotated output, exploring vehicle detection and video-processing workflows.
+**Technologies:** Python, YOLO, OpenCV, Flask
 
-[View Project Repository](https://github.com/parveenbhanu2005/EmergencyVehiclePriorityDetection)
+A computer vision application that processes uploaded videos and generates annotated output to explore vehicle detection and video-processing workflows.
+
+[View Repository](https://github.com/parveenbhanu2005/EmergencyVehiclePriorityDetection)
 
 ### 2. AI Interview Agent
-**Tech stack:** Python, Flask, Groq API, LLM integration
 
-An AI-assisted interview practice application designed to generate interview questions and evaluate user-submitted answers to support interview preparation.
+**Technologies:** Python, Flask, Groq API, LLM integration
 
-[View Project Repository](https://github.com/parveenbhanu2005/AI-Interview-Agent)
+An AI-assisted interview practice application designed to generate interview questions and evaluate submitted answers.
+
+[View Repository](https://github.com/parveenbhanu2005/AI-Interview-Agent)
 
 ### 3. AI Resume Screening Agent
-**Tech stack:** Python, AI integration
 
-A project exploring AI-assisted resume screening and candidate information analysis to support recruitment-related workflows.
+**Technologies:** Python, AI integration
 
-[View Project Repository](https://github.com/parveenbhanu2005/AI-Resume-Screening-Agentt)
+A project exploring AI-assisted resume screening and candidate information analysis.
+
+[View Repository](https://github.com/parveenbhanu2005/AI-Resume-Screening-Agentt)
 
 ### 4. Smart Document Tampering Detection
-**Tech stack:** Python, OpenCV, OCR
 
-A document analysis project that uses image-processing and text-extraction techniques to explore the identification of potential inconsistencies in document images.
+**Technologies:** Python, OpenCV, OCR
 
-[View Project Repository](https://github.com/parveenbhanu2005/smart-document-tampering-detection)
+A document analysis project exploring image processing and text extraction to identify potential inconsistencies in document images.
+
+[View Repository](https://github.com/parveenbhanu2005/smart-document-tampering-detection)
 
 ### 5. Waterlogging Detection AI
-**Tech stack:** Python, OpenCV, Ultralytics
+
+**Technologies:** Python, OpenCV, Ultralytics
 
 A computer vision project exploring image-based waterlogging detection and visual analysis.
 
-[View Project Repository](https://github.com/parveenbhanu2005/Waterlogging-Detection-AI)
+[View Repository](https://github.com/parveenbhanu2005/Waterlogging-Detection-AI)
 
 ### 6. Voice AI
-**Tech stack:** Python, speech-processing tools
+
+**Technologies:** Python, Speech Processing
 
 A project exploring voice-based interaction and speech-processing functionality.
 
-[View Project Repository](https://github.com/parveenbhanu2005/Voice-AI)
+[View Repository](https://github.com/parveenbhanu2005/Voice-AI)
 
 ## Education
 
 | Qualification | Institution | Year | Result |
 |---|---|---|---|
 | B.Tech — CSE (Cyber Security) | Rajeev Gandhi Memorial College of Engineering & Technology | Expected 2027 | Pursuing |
-| Diploma |
+| Diploma | SVR Engineering College | 2024 | 76% |
+| SSC | ZP High School (Boys) | 2021 | 89.33% |
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parveenbhanu2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=FFFFFF&ring_color=67E8F9&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenbhanu2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=FFFFFF&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=parveenbhanu2005&theme=dark&hide_border=true&background=0D1117&ring=67E8F9&fire=FFD166&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=C0C8D4&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parveenbhanu2005&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+## Current Learning Goals
+
+- Strengthening Java and Python problem-solving skills.
+- Improving backend and full-stack development.
+- Practicing SQL and database design.
+- Learning cybersecurity fundamentals and secure coding practices.
+- Building maintainable, well-documented software projects.
+
+## Let's Connect
+
+I welcome opportunities to collaborate, learn from experienced developers, and contribute to software development and cybersecurity projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parveen-bhanu-bandisula/">LinkedIn</a> •
+  <a href="https://parveenbhanu-portflio.netlify.app/">Portfolio</a> •
+  <a href="https://github.com/parveenbhanu2005">GitHub</a> •
+  <a href="https://leetcode.com/u/ParveenBhanu/">LeetCode</a>
+</p>
+
+<p align="center">
+  <i>Learn continuously. Build thoughtfully. Improve every day.</i>
+</p>
